@@ -26,12 +26,11 @@ export const Home = () => {
   return (
     <>
       <h1>Base Models of the components need to be here</h1>
-      {/* <Howler /> */}
+      <Howler />
       <HowlerPlayer />
-      {/* <Wavesurf /> */}
-      {/* <Visualizer /> */}
-      {/* <Player /> */}
-
+      <Wavesurf />
+      <Visualizer />
+      <Player />
       <GlobalAudioPlayer />
       <h2>
         Basic Wave example with multiple waves here? Can I get them to load one
